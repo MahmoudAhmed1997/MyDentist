@@ -1,4 +1,4 @@
-# myDentist
+# MyDentist
 
 
 A new Flutter application.
